@@ -1,7 +1,4 @@
 **Hello!**
-My name is Gustav and im studying the DevOps Engineer program at Nackademin.
-
-Currently im doing an internship at Scania CV IT departement apart of the Linux team. 
 <!--
 **gurraoberg/gurraoberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
