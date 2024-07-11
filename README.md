@@ -1,4 +1,5 @@
 **Hello!**
+I like to build and lab with new technologies and automate as much as I can.
 <!--
 **gurraoberg/gurraoberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
